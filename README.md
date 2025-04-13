@@ -37,16 +37,6 @@
 
 <div align="center">
   <h2>📈 Current Stats</h2>
-</div>
-
-<br />
-
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimsikder&layout=compact&theme=gotham&custom_title=Most+Used+Languages&langs_count=5&hide_border=true" />
-</p>
-
-<div align="center">
   <p>📊 Language Usage (Personal Estimate)</p>
   <p>SQL: 70% | HTML: 70% | CSS: 50% | JavaScript: 40% | Python: 20%</p>
 </div>

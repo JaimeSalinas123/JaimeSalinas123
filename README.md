@@ -38,7 +38,30 @@
 <div align="center">
   <h2>📈 Current Stats</h2>
   <p>📊 Language Usage (Personal Estimate)</p>
-  <p>SQL: 70% | HTML: 70% | CSS: 50% | JavaScript: 40% | Python: 20%</p>
+  
+  <!-- Barras de progreso visuales -->
+  <table align="center">
+    <tr>
+      <td><b>SQL</b></td>
+      <td>▰▰▰▰▰▰▰▰▰▰ 70%</td>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+      <td>▰▰▰▰▰▰▰▰▰▰ 70%</td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td>▰▰▰▰▰▰▰▰▱▱ 50%</td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td>▰▰▰▰▰▰▱▱▱▱ 40%</td>
+    </tr>
+    <tr>
+      <td><b>Python</b></td>
+      <td>▰▰▰▱▱▱▱▱▱▱ 20%</td>
+    </tr>
+  </table>
 </div>
 
 ---

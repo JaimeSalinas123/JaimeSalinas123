@@ -39,18 +39,26 @@
   <h2>📊 My Language Stats</h2>
   <p><i>Personal proficiency estimate (2024)</i></p>
   
-  <!-- Versión compatible con GitHub usando emojis -->
-  <pre>
-  <code>
-  <b>SQL        </b> █████████▋ 70%
-  <b>HTML       </b> █████████▋ 70%
-  <b>CSS        </b> █████▎    50%
-  <b>JavaScript </b> ███▊      40%
-  <b>Python     </b> █▎        20%
-  </code>
-  </pre>
-  
-  <p><sub>* Estos porcentajes representan mi autoevaluación de dominio actual.</sub></p>
+<p align="center">
+  <a href="https://github.com/shamimsikder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Jaime+Salinas%F0%9F%91%8B;A+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+  <h2>📊 My Language Stats</h2>
+  <p><i>Personal proficiency estimate (2024)</i></p>
+
+  <!-- Tabla con barras visuales y porcentajes -->
+  | Lenguaje      | Nivel        | Porcentaje |
+  |--------------|--------------|------------|
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> **SQL** | █████████▌ | **70%** |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML** | █████████▌ | **70%** |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS** | █████▌ | **50%** |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript** | ███▊ | **40%** |
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> **Python** | █▌ | **20%** |
+
+  <p><sub>* Evaluación basada en mi experiencia y proyectos.</sub></p>
 </div>
 
 ---

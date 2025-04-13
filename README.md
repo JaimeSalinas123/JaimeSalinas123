@@ -39,36 +39,66 @@
   <h2>📊 My Language Stats</h2>
   <p><i>Personal proficiency estimate (2024)</i></p>
   
-  <!-- Gráfico de barras horizontal con iconos -->
-  <table align="center" width="80%">
+  <!-- Diseño tipo infografía con porcentajes centrados -->
+  <table align="center" width="90%">
     <tr>
-      <td width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> <b>SQL</b></td>
-      <td><div style="background: linear-gradient(90deg, #2AA889 70%, #e4e4e4 30%); height: 20px; border-radius: 5px;"></div></td>
-      <td width="60px"><b>70%</b></td>
+      <td width="30%" align="right">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> <b>SQL</b>
+      </td>
+      <td width="40%">
+        <div style="background: linear-gradient(90deg, #2AA889 70%, #e4e4e4 30%); height: 20px; border-radius: 5px;"></div>
+      </td>
+      <td width="30%" align="left">
+        <span style="font-size: 1.1em; font-weight: bold; color: #2AA889;">70%</span>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> <b>HTML</b></td>
-      <td><div style="background: linear-gradient(90deg, #2AA889 70%, #e4e4e4 30%); height: 20px; border-radius: 5px;"></div></td>
-      <td><b>70%</b></td>
+      <td align="right">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> <b>HTML</b>
+      </td>
+      <td>
+        <div style="background: linear-gradient(90deg, #2AA889 70%, #e4e4e4 30%); height: 20px; border-radius: 5px;"></div>
+      </td>
+      <td align="left">
+        <span style="font-size: 1.1em; font-weight: bold; color: #2AA889;">70%</span>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> <b>CSS</b></td>
-      <td><div style="background: linear-gradient(90deg, #2AA889 50%, #e4e4e4 50%); height: 20px; border-radius: 5px;"></div></td>
-      <td><b>50%</b></td>
+      <td align="right">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> <b>CSS</b>
+      </td>
+      <td>
+        <div style="background: linear-gradient(90deg, #2AA889 50%, #e4e4e4 50%); height: 20px; border-radius: 5px;"></div>
+      </td>
+      <td align="left">
+        <span style="font-size: 1.1em; font-weight: bold; color: #2AA889;">50%</span>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> <b>JavaScript</b></td>
-      <td><div style="background: linear-gradient(90deg, #2AA889 40%, #e4e4e4 60%); height: 20px; border-radius: 5px;"></div></td>
-      <td><b>40%</b></td>
+      <td align="right">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> <b>JavaScript</b>
+      </td>
+      <td>
+        <div style="background: linear-gradient(90deg, #2AA889 40%, #e4e4e4 60%); height: 20px; border-radius: 5px;"></div>
+      </td>
+      <td align="left">
+        <span style="font-size: 1.1em; font-weight: bold; color: #2AA889;">40%</span>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> <b>Python</b></td>
-      <td><div style="background: linear-gradient(90deg, #2AA889 20%, #e4e4e4 80%); height: 20px; border-radius: 5px;"></div></td>
-      <td><b>20%</b></td>
+      <td align="right">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> <b>Python</b>
+      </td>
+      <td>
+        <div style="background: linear-gradient(90deg, #2AA889 20%, #e4e4e4 80%); height: 20px; border-radius: 5px;"></div>
+      </td>
+      <td align="left">
+        <span style="font-size: 1.1em; font-weight: bold; color: #2AA889;">20%</span>
+      </td>
     </tr>
   </table>
   
-  <p><sub>Nota: Estos porcentajes representan mi autoevaluación de dominio.</sub></p>
+  <p><sub>* Estos porcentajes representan mi autoevaluación de dominio actual.</sub></p>
 </div>
 
 ---

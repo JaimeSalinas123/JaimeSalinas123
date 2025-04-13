@@ -41,10 +41,6 @@
 
 <br />
 
-<p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true&hide_border=true&dates=2024-2025" alt="GitHub Streak" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham&hide=prs&hide_rank=true&custom_title=Getting+Started+on+GitHub" />
-</p>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimsikder&layout=compact&theme=gotham&custom_title=Most+Used+Languages&langs_count=5&hide_border=true" />

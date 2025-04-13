@@ -49,14 +49,13 @@
   <h2>📊 My Language Stats</h2>
   <p><i>Personal proficiency estimate (2024)</i></p>
 
-  <!-- Tabla con barras visuales y porcentajes -->
-  | Lenguaje      | Nivel        | Porcentaje |
-  |--------------|--------------|------------|
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> **SQL** | █████████▌ | **70%** |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML** | █████████▌ | **70%** |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS** | █████▌ | **50%** |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript** | ███▊ | **40%** |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> **Python** | █▌ | **20%** |
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-70%25-2AA889?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-50%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
   <p><sub>* Evaluación basada en mi experiencia y proyectos.</sub></p>
 </div>

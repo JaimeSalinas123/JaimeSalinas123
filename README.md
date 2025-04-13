@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/jaime-lopez-0124b6351/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/jaimesalinnas?igsh=MXg0MTJmNXNwejMyMA==" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/jaimesalinnas" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 

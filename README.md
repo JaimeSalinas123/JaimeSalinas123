@@ -15,9 +15,19 @@
 
 ---
 
+<h3 align="center">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 - 👨‍💻 Computer Science Engineering student with 1 year of experience as a freelance developer.
 - 💬 Focused on Backend with Java and Spring Boot, implementing business logic and scalable systems with MySQL using layered architecture.
 - 🌱 Complementary experience in FrontEnd.
+
+<h3 align="center">
+  Sobre Mi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 - 🎓 Estudiante de Ingeniería en Ciencias de la Computación con 1 año de experiencia como desarrollador freelance.
 - ⚙️ Enfocado en Backend con Java y Spring Boot, implementando lógica de negocio y sistemas escalables con MySQL bajo arquitectura en capas.

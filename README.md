@@ -14,14 +14,14 @@
 <div align="center">
 
 ---
-👨‍💻 About Me
-===👨‍💻 Computer Science Engineering student with 1 year of experience as a freelance developer.
-===💬 Focused on Backend with Java and Spring Boot, implementing business logic and scalable systems with MySQL using layered architecture.
-===🌱 Complementary experience in FrontEnd.
 
-===🎓 Estudiante de Ingeniería en Ciencias de la Computación con 1 año de experiencia como desarrollador freelance.
-===⚙️ Enfocado en Backend con Java y Spring Boot, implementando lógica de negocio y sistemas escalables con MySQL bajo arquitectura en capas.
-===🎨 Experiencia complementaria en FrontEnd.
+- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
+- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
 
 ## 🛠 &nbsp;Tech Stack
 

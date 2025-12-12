@@ -22,7 +22,6 @@
 ===🎓 Estudiante de Ingeniería en Ciencias de la Computación con 1 año de experiencia como desarrollador freelance.
 ===⚙️ Enfocado en Backend con Java y Spring Boot, implementando lógica de negocio y sistemas escalables con MySQL bajo arquitectura en capas.
 ===🎨 Experiencia complementaria en FrontEnd.
----
 
 ## 🛠 &nbsp;Tech Stack
 

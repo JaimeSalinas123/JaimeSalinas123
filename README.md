@@ -65,7 +65,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeSalinas123&theme=radium&hide_border=true" alt="Jaime's GitHub Streak" width="48%" />
 </div>
 
 ---

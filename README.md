@@ -18,7 +18,7 @@
 <h3 align="center">👨‍💻 About Me / Sobre Mí</h3>
 </div>
 
-**EN:** 🎓 Computer Science Engineering student and Junior Software Engineer based in El Salvador. I specialize in Full-Stack development, building scalable backend systems with Java (Spring Boot) and PHP (Laravel), while integrating relational databases. Currently exploring Cloud infrastructure (AWS) and server monitoring. 
+**EN:** 🎓 Computer Science Engineering student and Junior Software Engineer based in El Salvador. I specialize in Full-Stack development, building scalable backend systems with Java (Spring Boot) and PHP (Laravel), while integrating relational databases. Currently exploring Cloud infrastructure (AWS) and server monitoring.
 
 **ES:** 🎓 Estudiante de Ingeniería en Ciencias de la Computación y Junior Software Engineer en El Salvador. Me especializo en desarrollo Full-Stack, construyendo sistemas backend escalables con Java (Spring Boot) y PHP (Laravel), integrando bases de datos relacionales. Actualmente explorando infraestructura en la nube (AWS) y monitoreo de servidores.
 
@@ -26,34 +26,33 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-#### 💻 Lenguajes (BackEnd & FrontEnd)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,java,php" alt="Languages" />
-  </a>
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php&perline=8" alt="Languages" />
 </p>
 
-#### ⚙️ Frameworks & Librerías
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask" alt="Frameworks and Libraries" />
-  </a>
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask,nodejs&perline=8" alt="Frameworks" />
 </p>
 
-#### 🛢️ Databases & Cloud/DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,aws" alt="Databases and DevOps" />
-  </a>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&height=48" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white&height=48" alt="Zabbix" />
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" alt="Databases" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-#### 🔧 Tools (Herramientas)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
-  </a>
+<h4 align="center">DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=4" alt="DevOps" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+</p>
+
+<h4 align="center">Dev Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
 </p>
 
 ---
@@ -61,20 +60,15 @@
 <h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <!-- Estadísticas generales con commits privados activados -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <!-- Lenguajes más usados en tiempo real -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeSalinas123&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 <br>
 <div align="center">
-  <!-- Racha diaria -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeSalinas123&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
 

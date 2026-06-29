@@ -24,32 +24,35 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center">
+#### 💻 Lenguajes (BackEnd & FrontEnd)
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,java,php&perline=8" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,java,php" alt="Languages" />
   </a>
 </p>
 
-<p align="center">
+#### ⚙️ Frameworks & Librerías
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask&perline=6" alt="Frameworks and Libraries" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask" alt="Frameworks and Libraries" />
   </a>
 </p>
 
-<p align="center">
+#### 🛢️ Databases & Cloud/DevOps
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,aws&perline=4" alt="Databases and DevOps" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,aws" alt="Databases and DevOps" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&height=48" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white&height=48" alt="Zabbix" />
 </p>
 
-<p align="center">
+#### 🔧 Tools (Herramientas)
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
   </a>
 </p>
 
@@ -58,17 +61,20 @@
 <h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeSalinas123&theme=dark&hide_border=true&type=png" alt="GitHub Streak" />
+  <!-- Estadísticas generales con commits privados activados -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <!-- Lenguajes más usados en tiempo real -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Racha diaria -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeSalinas123&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 

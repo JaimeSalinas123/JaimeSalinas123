@@ -28,48 +28,41 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php&perline=8" />
 </p>
 
 <h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask,nodejs&perline=8" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask,nodejs&perline=8" />
 </p>
 
 <h4 align="center">Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=6" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIElEQVQ4jY2TvU4CQRCAvxVCQkJCQkJCYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiQkJCJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCT&logoColor=white" alt="SQL Server" />
 </p>
 
 <h4 align="center">DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws&perline=4" alt="DevOps" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=4" />
 </p>
 
 <h4 align="center">Dev Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 </p>
 
 ---
 
-<h3 align="center">🔥 My Stats</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeSalinas123&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -77,8 +70,16 @@
 <h3 align="center">🔗 Let's Connect</h3>
 
 <div align="center">
-  <a href="https://portafolio-jaime-salinas.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Netlify&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jaime-salinas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jnlopezjr36@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jaimesalinnas"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://portafolio-jaime-salinas.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaime-salinas" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jnlopezjr36@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jaimesalinnas" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>

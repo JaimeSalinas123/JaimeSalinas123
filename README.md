@@ -36,16 +36,11 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask,nodejs&perline=8" />
 </p>
 
-<h4 align="center">Databases</h4>
+<h4 align="center">Databases & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,aws&perline=8" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIElEQVQ4jY2TvU4CQRCAvxVCQkJCQkJCYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiYmJiQkJCJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCT&logoColor=white" alt="SQL Server" />
-</p>
-
-<h4 align="center">DevOps & Cloud</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws&perline=4" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 <h4 align="center">Dev Tools</h4>

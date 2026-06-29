@@ -68,9 +68,6 @@
   <a href="https://portafolio-jaime-salinas.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/jaime-salinas](https://www.linkedin.com/in/jaimesalinas04/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:jnlopezjr36@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

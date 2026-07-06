@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -24,31 +24,41 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
-#### Languages
-<p align="left">
+<h4 align="center">Languages</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
 </p>
 
-#### Frameworks & Libraries
-<p align="left">
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,flask" />
 </p>
 
-#### Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,aws" />
+<h4 align="center">Databases & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,aws" />
 </p>
 
-#### Tools, DevOps & Virtualization
-<p align="left">
+<h4 align="center">Tools, DevOps & Virtualization</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <a href="https://github.com/JaimeSalinas123">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Jaime Salinas" />
+  </a>
+  <a href="https://github.com/JaimeSalinas123">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=radical" alt="Lenguajes más usados por Jaime Salinas" />
+  </a>
+</div>
+
 ---
 
 <h3 align="center">🔗 Let's Connect</h3>

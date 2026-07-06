@@ -50,19 +50,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/JaimeSalinas123">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Jaime Salinas" />
-  </a>
-  <a href="https://github.com/JaimeSalinas123">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=radical" alt="Lenguajes más usados por Jaime Salinas" />
-  </a>
-</div>
-
----
-
 <h3 align="center">🔗 Let's Connect</h3>
 
 <div align="center">

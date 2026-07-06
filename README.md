@@ -50,14 +50,15 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JaimeSalinas123/JaimeSalinas123/output/github-snake.svg" />
-  </picture>
+  <a href="https://github.com/JaimeSalinas123">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JaimeSalinas123&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Jaime Salinas" />
+  </a>
+  <a href="https://github.com/JaimeSalinas123">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSalinas123&layout=compact&theme=radical" alt="Lenguajes más usados por Jaime Salinas" />
+  </a>
 </div>
 
 ---

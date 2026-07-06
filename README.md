@@ -24,30 +24,31 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+### 🛠️ Tech Stack
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php&perline=8" />
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
 </p>
 
-<h4 align="center">Frameworks & Libraries</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,laravel,spring,flask,nodejs&perline=8" />
+#### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,flask" />
 </p>
 
-<h4 align="center">Databases & Cloud</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,aws&perline=8" />
+#### Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,aws" />
+</p>
+
+#### Tools, DevOps & Virtualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-
-<h4 align="center">Dev Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
-</p>
-
 ---
 
 <h3 align="center">🔗 Let's Connect</h3>

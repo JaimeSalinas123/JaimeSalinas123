@@ -20,7 +20,7 @@
 
 **EN:** 🎓 Computer Science Engineering student and Junior Software Engineer based in El Salvador. I specialize in Full-Stack development, building scalable backend systems with Java (Spring Boot) and PHP (Laravel), while integrating relational databases. Currently exploring Cloud infrastructure (AWS) and server monitoring.
 
-**ES:** 🎓 Estudiante de Ingeniería en Ciencias de la Computación y Junior Software Engineer en El Salvador. Me especializo en desarrollo Full-Stack, construyendo sistemas backend escalables con Java (Spring Boot) y PHP (Laravel), integrando bases de datos relacionales. Actualmente explorando infraestructura en la nube (AWS) y monitoreo de servidores.
+**ES:** 🎓 Estudiante de Ingeniería en Ciencias de la Computación y Junior Software Engineer en El Salvador. Me especializo en desarrollo Full-Stack & Backend, construyendo sistemas backend escalables con Java (Spring Boot) y PHP (Laravel), integrando bases de datos relacionales. Actualmente explorando infraestructura en la nube (AWS) y monitoreo de servidores.
 
 ---
 

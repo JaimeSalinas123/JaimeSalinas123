@@ -38,7 +38,7 @@
 
 <h4 align="center">Databases & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws" />
 </p>
 
 <h4 align="center">Tools, DevOps & Virtualization</h4>

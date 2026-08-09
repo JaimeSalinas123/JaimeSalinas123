@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<h3 align="center">👨‍💻 About Me / Sobre Mí</h3>
+<h3 align="center">👨‍💻 About Me / Sobre Mí </h3>
 </div>
 
 **EN:** 🎓 Computer Science Engineering student and Junior Software Engineer based in El Salvador. I specialize in Full-Stack development, building scalable backend systems with Java (Spring Boot) and PHP (Laravel), while integrating relational databases. Currently exploring Cloud infrastructure (AWS) and server monitoring.

@@ -18,32 +18,32 @@
 <h3 align="center">👨‍💻 About Me / Sobre Mí </h3>
 </div>
 
-**EN:** 🎓 Computer Science Engineering student and Junior Software Engineer based in El Salvador. I specialize in Full-Stack development, building scalable backend systems with Java (Spring Boot) and PHP (Laravel), while integrating relational databases. Currently exploring Cloud infrastructure (AWS) and server monitoring.
+**EN:** 🎓 Junior Software Engineer with corporate experience and an international freelance trajectory. Specialized in the Full-Stack ecosystem and efficient Backend architectures. I am an expert in integrating Artificial Intelligence solutions and building scalable RESTful APIs, focusing on automating processes, solving complex problems, and reducing system bottlenecks by nearly 100%.
 
-**ES:** 🎓 Estudiante de Ingeniería en Ciencias de la Computación y Junior Software Engineer en El Salvador. Me especializo en desarrollo Full-Stack & Backend, construyendo sistemas backend escalables con Java (Spring Boot) y PHP (Laravel), integrando bases de datos relacionales. Actualmente explorando infraestructura en la nube (AWS) y monitoreo de servidores.
+**ES:** 🎓 Ingeniero de Software Junior con experiencia corporativa y trayectoria freelance internacional. Especializado en el ecosistema Full-Stack y arquitecturas Backend eficientes. Soy experto en integrar soluciones de Inteligencia Artificial (Gemini API) y construir APIs RESTful escalables, enfocándome en automatizar procesos, resolver problemas complejos y reducir los cuellos de botella del sistema en casi un 100%.
 
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<h4 align="center">Languages</h4>
+<h4 align="center">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,py,flask" />
 </p>
 
-<h4 align="center">Frameworks & Libraries</h4>
+<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,flask" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
 </p>
 
-<h4 align="center">Databases & Cloud</h4>
+<h4 align="center">BD & Infraestructura</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,docker" />
 </p>
 
-<h4 align="center">Tools, DevOps & Virtualization</h4>
+<h4 align="center">Herramientas y Entornos</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
 ---
